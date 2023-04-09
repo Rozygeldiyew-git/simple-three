@@ -1,12 +1,1 @@
-1. Suratlary bolup biler birnache max: 50 sany
-2. Tanyshdyrysh, reklama we sh.m. videolary bolup biler
-3. Taryhy barada yazgy bolup biler
-4. Adresleri
-5. Habarlashmak uchin links: (telefon nomerleri, email,  icq, imo, instagram, tiktok) +
-6. Flyallary barada maglumatlar
-7. Adreslerinin ustune basylanda Google Maps-e gitmeli we shol yerde gorkezilmeli ( with location )
-8. Logo
-9. Biz barada section
-10. Hyzmatlarymyz section
-11. Dolandyrysh edarasynyn esasy suraty
-12. 
+some changes by RB
